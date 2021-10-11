@@ -53,4 +53,6 @@ body {
 h1 {
     font-size: 40pt;
     margin: 8pt auto;
+    color: red;
+    text-align: center;
 }
